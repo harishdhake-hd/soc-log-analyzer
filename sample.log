@@ -1,0 +1,7 @@
+Jun 18 10:01:22 server sshd[1234]: Failed password for root from 192.168.1.105 port 22
+Jun 18 10:01:23 server sshd[1234]: Failed password for admin from 192.168.1.105 port 22
+Jun 18 10:01:24 server sshd[1234]: Invalid user test from 192.168.1.105 port 22
+Jun 18 10:01:25 server sshd[1234]: Failed password for root from 10.0.0.55 port 22
+Jun 18 10:01:26 server sshd[1234]: error: maximum authentication attempts exceeded for root from 192.168.1.105 port 22
+Jun 18 10:01:30 server sshd[1234]: Connection closed by 192.168.1.200 port 22
+Jun 18 10:02:00 server sshd[1234]: Accepted password for harish from 192.168.1.10 port 22
